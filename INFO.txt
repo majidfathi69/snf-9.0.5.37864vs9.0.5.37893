@@ -1,0 +1,12 @@
+How to use sniffer:
+1. start ArctiumSniffer.exe
+2. start wow.exe (dont use autologin!)
+3. go to sniffer console and select network card (MUST BE ETHERNET, WIFI WONT WORK!)
+4. go to wow and walk around to sniff.
+5. when done, close ArctiumSniffer.exe, and AFTER THAT close wow.exe
+
+
+
+NOTE:
+INSTALL WINPCAP BEFORE STARTING SNIFFER!
+WORKS ONLY WITH ETHERNET INTERFACE! DOES NOT WORK WITH WIFI\WLAN!
